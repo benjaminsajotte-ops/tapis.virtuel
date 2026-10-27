@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Charte Tetra Coach : seule source des couleurs de l'app -->
+<resources>
+    <color name="bg">#14301F</color>
+    <color name="surface">#1F4230</color>
+    <color name="surface_2">#2A5540</color>
+    <color name="deep">#0F2418</color>
+    <color name="line">#26503A</color>
+    <color name="ink">#F4F2EA</color>
+    <color name="muted">#A9C2B2</color>
+    <color name="accent">#E25D72</color>
+    <color name="accent_ink">#FFFFFF</color>
+    <color name="ok">#2FB868</color>
+    <color name="warn">#E0892D</color>
+    <color name="bad">#D93A55</color>
+    <!-- voile des fenêtres du bas : rgba(8,20,13,.62) -->
+    <color name="veil">#9E08140D</color>
+</resources>
